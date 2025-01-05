@@ -69,7 +69,20 @@ nav {
     display: block;
     transition: all 0.3s;
 }
+/* Styling for the supervisor's name */
+.phName {
+    font-size: 2.5rem; /* Adjust size as needed */
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2rem; /* Adjust spacing as needed */
+}
 
+/* Styling for the 'C4' text */
+.main__class {
+    font-size: 2.7rem; /* Same as .main__header */
+    font-weight: 600;
+    color: #222;
+}
 /* Slider */
 .slider {
     max-width: 60rem;
