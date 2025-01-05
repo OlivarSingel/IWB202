@@ -167,7 +167,7 @@ nav {
     display: flex;
     flex-direction: column;
     height: 90vb;
-    background-image: linear-gradient(rgba(34, 34, 34, 0.9), rgba(34, 34, 34, 0.8)), url(images/bg.jpg);
+    background-image: linear-gradient(rgba(34, 34, 34, 0.9), rgba(34, 34, 34, 0.8)), url(bg.jpg);
     background-size: cover;
     margin-bottom: 6rem;
 }
@@ -347,7 +347,7 @@ td button {
 }
 
 #captchaTxtArea {
-    background: url(images/cap.jpg);
+    background: url(cap.jpg);
     color: #40b5bb;
     font-size: 1.8rem;
     font-weight: bold;
